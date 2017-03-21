@@ -1,0 +1,2 @@
+# AndroidRuntimePermission
+This project is used for marshmallow permission on easy way and good managed all the flow. Flows like Multiple Permission or single permission where multiple permission required for specific tasks where which are granted,denied blocked all the callbacks are there. There is all the permission when granted their callback also there so user can do their further task from there very easily.
