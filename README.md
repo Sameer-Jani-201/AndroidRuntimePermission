@@ -1,3 +1,18 @@
+To Implement this project use :
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+And
+
+	dependencies {
+	        compile 'com.github.Sameer-Jani-201:AndroidRuntimePermission:-SNAPSHOT'
+	}
+
 
 This is Android Runtime Permission on easy way and handle single as well as multiple permission very easily.
 In this demo project created one AndroidRuntimePemrission.jar, which is kept in lib folder.
@@ -48,6 +63,7 @@ When some or any permission you have blocked by rational denied that means you h
 
 
 onAllPermissionGranted() this method call only and only if you have allowed all the permissions. So if when all the permissions are granted that time what you want to do that further task you can start from here.
+
 
 Important Notes :
 
