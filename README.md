@@ -10,7 +10,7 @@ To Implement this project use :
 And
 
 	dependencies {
-	        compile 'com.github.Sameer-Jani-201:AndroidRuntimePermission:-SNAPSHOT'
+	        compile 'com.github.Sameer-Jani-201:AndroidRuntimePermission:1.0'
 	}
 
 
